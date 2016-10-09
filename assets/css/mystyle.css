@@ -1,0 +1,20 @@
+.imgCenter {
+	margin-left:175px;
+}
+h1 {
+	color:#45d8c7;
+	font-family: 'Nunito', sans-serif;
+}
+#MG {
+	font-family: 'Pacifico', cursive;
+}
+.featurette-heading {
+	font-family: 'Pacifico', cursive;
+}
+.text-muted {
+	font-family: 'Nunito', sans-serif;
+	font-size:30px;
+}
+p, a {
+	font-family: 'Nunito', sans-serif;
+}
